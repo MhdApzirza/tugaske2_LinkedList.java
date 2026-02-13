@@ -1,0 +1,10 @@
+# Abaikan file hasil kompilasi Java (Bytecode)
+*.class
+
+# Abaikan file metadata VS Code
+.vscode/
+bin/
+
+# Abaikan file log atau temporary
+*.log
+*.tmp
