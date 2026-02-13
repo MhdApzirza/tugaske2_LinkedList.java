@@ -1,3 +1,6 @@
+# Nama : Muhammad Apzirza Rafi
+# NIM  : 24106050077
+
 class Node:
     def __init__(self, nim, nama):
         self.nim = nim
