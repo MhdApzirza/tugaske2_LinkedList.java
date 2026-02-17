@@ -24,5 +24,5 @@ Program ini dibuat untuk mengelola data mahasiswa (Nama dan NIM) dengan konsep L
 ## 🎥 Video Demo
 Daftar operasi (Insert & Delete) bentuk Linked List pada program Java dan Python:
 
-**[Nonton Video Demo](https://youtu.be/0ET0SNYs124)**
+**[Nonton Video Demo](https://youtu.be/0ET0SNYs124?si=f0oFIz9e9xzyT5-g)**
 *Klik gambar di atas untuk memutar video demo di YouTube @Muhammad Apzirza Rafi.*
